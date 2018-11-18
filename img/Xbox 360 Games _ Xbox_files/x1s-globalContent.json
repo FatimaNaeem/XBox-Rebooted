@@ -1,0 +1,413 @@
+//var urlRegion = document.URL.split("/")[3].toLowerCase();
+//var locregioncontent = locx1sbladeContent.locales[urlRegion];
+
+x1sbladeContent = {
+  "locales": {
+    "en-us": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/cb/51/cb51ba04-907c-4460-9e74-13aa4053d646.jpg?n=Xbox-Family_Page-Hero-768_Family-Mirror_1084x609.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "side by side, black 1 terrabyte Xbox One X and white 500 gigabyte Xbox One X console with controllers",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/en-us/xbox-one",
+      "keyAriaexplore": "shop xbox one consoles"
+    },
+    "ar-ae": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/ar-ae/xbox-one"
+    },
+    "ar-sa": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/ar-sa/xbox-one"
+    },
+    "cs-cz": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Která konzole je vaše?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logo Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/cs-cz/xbox-one"
+    },
+    "da-dk": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Hvilken konsol har du",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox one-logo",
+      "keyLinkx1surl": "https://www.xbox.com/da-dk/xbox-one"
+    },
+    "de-at": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Wähle eine Konsole.",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One-Logo",
+      "keyLinkx1surl": "https://www.xbox.com/de-at/xbox-one"
+    },
+    "de-ch": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Wähle eine Konsole.",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One-Logo",
+      "keyLinkx1surl": "https://www.xbox.com/de-ch/xbox-one"
+    },
+    "de-de": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Wähle eine Konsole.",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One-Logo",
+      "keyLinkx1surl": "https://www.xbox.com/de-de/xbox-one"
+    },
+    "el-gr": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Ποια κονσόλα είναι η δικιά σας",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Λογότυπο Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/el-gr/xbox-one"
+    },
+    "en-au": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/en-au/xbox-one"
+    },
+    "en-ca": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/en-ca/xbox-one"
+    },
+    "en-gb": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/en-gb/xbox-one"
+    },
+    "en-hk": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/en-hk/xbox-one"
+    },
+    "en-ie": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/en-ie/xbox-one"
+    },
+    "en-in": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/en-in/xbox-one"
+    },
+    "en-nz": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/en-nz/xbox-one"
+    },
+    "en-sg": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/en-sg/xbox-one"
+    },
+    "en-za": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/en-za/xbox-one"
+    },
+    "es-ar": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "¿Qué consola es la tuya?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logotipo de Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/es-ar/xbox-one"
+    },
+    "es-cl": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "¿Qué consola es la tuya?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logotipo de Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/es-cl/xbox-one"
+    },
+    "es-co": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "¿Qué consola es la tuya?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logotipo de Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/es-co/xbox-one"
+    },
+    "es-es": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "¿Qué consola es la tuya?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logotipo de Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/es-es/xbox-one"
+    },
+    "es-mx": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "¿Qué consola es la tuya?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logotipo de Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/es-mx/xbox-one"
+    },
+    "fi-fi": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Mikä on konsolisi",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One -logo",
+      "keyLinkx1surl": "https://www.xbox.com/fi-fi/xbox-one"
+    },
+    "fr-be": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Quelle console est faite pour vous ?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logo Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/fr-be/xbox-one"
+    },
+    "fr-ca": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Quelle est votre console",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logo Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/fr-ca/xbox-one"
+    },
+    "fr-ch": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Quelle console est faite pour vous ?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logo Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/fr-ch/xbox-one"
+    },
+    "fr-fr": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Quelle console est faite pour vous ?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logo Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/fr-fr/xbox-one"
+    },
+    "he-il": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Which console is yours",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logo",
+      "keyLinkx1surl": "https://www.xbox.com/he-il/xbox-one"
+    },
+    "hu-hu": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Melyik konzol a legmegfelelőbb számodra?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Az Xbox One emblémája",
+      "keyLinkx1surl": "https://www.xbox.com/hu-hu/xbox-one"
+    },
+    "it-it": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Qual è la console per te",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logo di Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/it-it/xbox-one"
+    },
+    "ja-jp": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "本体はどれですか",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One ロゴ",
+      "keyLinkx1surl": "https://www.xbox.com/ja-jp/xbox-one"
+    },
+    "ko-kr": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "사용 중인 본체",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One 로고",
+      "keyLinkx1surl": "https://www.xbox.com/ko-kr/xbox-one"
+    },
+    "nb-no": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Hvilken konsoll er din",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox one-logo",
+      "keyLinkx1surl": "https://www.xbox.com/nb-no/xbox-one"
+    },
+    "nl-be": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Welk console gebruik je?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One-logo",
+      "keyLinkx1surl": "https://www.xbox.com/nl-be/xbox-one"
+    },
+    "nl-nl": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Welk console gebruik je?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One-logo",
+      "keyLinkx1surl": "https://www.xbox.com/nl-nl/xbox-one"
+    },
+    "pl-pl": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Która konsola jest naprawdę Twoja",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logo Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/pl-pl/xbox-one"
+    },
+    "pt-br": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Qual é o seu console",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logotipo do Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/pt-br/xbox-one"
+    },
+    "pt-pt": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Qual é a tua consola",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logótipo da Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/pt-pt/xbox-one"
+    },
+    "ru-ru": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Какая консоль твоя",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Логотип Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/ru-ru/xbox-one"
+    },
+    "sk-sk": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Ktorá konzola je vaša?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Logo konzoly Xbox One",
+      "keyLinkx1surl": "https://www.xbox.com/sk-sk/xbox-one"
+    },
+    "sv-se": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Vilken konsol är din?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One-logotyp",
+      "keyLinkx1surl": "https://www.xbox.com/sv-se/xbox-one"
+    },
+    "tr-tr": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "Sizin konsolunuz hangisi?",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One logosu",
+      "keyLinkx1surl": "https://www.xbox.com/tr-tr/xbox-one"
+    },
+    "zh-hk": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "專屬於您的主機",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One 標誌",
+      "keyLinkx1surl": "https://www.xbox.com/zh-hk/xbox-one"
+    },
+    "zh-tw": {
+      "keyImagex1sdesktop": "https://compass-ssl.xbox.com/assets/fa/14/fa1460dd-6871-41bf-bf04-88280a8a6269.jpg?n=Xbox-Family_Page-Hero-1084_Family-Mirror_1920x720_02.jpg",
+      "keyImagex1stablet": "https://compass-ssl.xbox.com/assets/70/9b/709b8034-0d8b-495d-bd8a-5f5a58b45d00.jpg?n=Xbox-Family_Feature-Center-768_Both-Consoles_1083x609_03.jpg",
+      "keyImagex1smobile": "https://compass-ssl.xbox.com/assets/5d/83/5d830880-4d36-4348-aa1e-91fe4b231364.jpg?n=Xbox-Family_Page-Hero-0_Family-Mirror_767x633.jpg",
+      "keyAltx1s": "您的專屬主機",
+      "keyImagefamlogo": "https://compass-ssl.xbox.com/assets/c8/5a/c85a1af2-37f2-4396-8637-83b6fb1506cf.png?n=Meet-X1S-2017-V2_Image-0_Xbox-One-Logo_300x62.png",
+      "keyAltfamlogo": "Xbox One 標誌",
+      "keyLinkx1surl": "https://www.xbox.com/zh-tw/xbox-one"
+    }
+  }
+}
